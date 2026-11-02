@@ -1,8 +1,8 @@
-<img src="https://rogervinas.github.io/alabai-agents-assets/alabai-256.png" alt="Alabai Agents" width="96">
+<img src="https://rogervinas.github.io/alabai-agents-assets/alabai-256.png" alt="Alabai Agents YouTube" width="96">
 
-# Alabai Agents
+# Alabai Agents YouTube
 
-Alabai Agents is a private tool that lets the owner of a YouTube
+Alabai Agents YouTube is a private tool that lets the owner of a YouTube
 channel manage it from their own computer, through the YouTube Data API: list
 the channel's videos and their statistics, upload new videos, edit titles,
 descriptions, tags and thumbnails, schedule when videos go public, organize
